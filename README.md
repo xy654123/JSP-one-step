@@ -26,6 +26,8 @@
 
 #ex5
 
+<img src="https://user-images.githubusercontent.com/96267331/170396119-9ff06778-cf4e-4e5c-880c-d01670aeb4c3.PNG"></img>
+
 <img src="https://user-images.githubusercontent.com/96267331/170396120-ae027588-aaf9-4a65-96f0-aa4fbb6a312f.PNG"></img>
 
 #ex6
