@@ -11,11 +11,11 @@
 <img src="https://user-images.githubusercontent.com/96267331/170398502-e2f53132-10c1-4cd6-ad33-1f25a25cfc17.PNG"></img><br><br>
 #ex3
 
-<img src="https://user-images.githubusercontent.com/96267331/170396703-4586a7fe-d6d4-427b-9656-7d6331adf926.PNG"></img>
+<img src="https://user-images.githubusercontent.com/96267331/170396114-8bca7f54-f12b-478f-8638-afe64b477713.PNG"></img>
 <img src="https://user-images.githubusercontent.com/96267331/170398489-ba3a2135-f5a0-4433-87de-20fd05bbaca8.PNG"></img><br><br>
 #ex3-1
 
-<img src="https://user-images.githubusercontent.com/96267331/170396703-4586a7fe-d6d4-427b-9656-7d6331adf926.PNG"></img>
+<img src="https://user-images.githubusercontent.com/96267331/170396116-889b1a3a-a775-49a9-a42d-8d03ab248eea.PNG"></img>
 <img src="https://user-images.githubusercontent.com/96267331/170398503-c1d2b754-260c-4b9f-8aeb-aed78de6ce1a.PNG"></img><br><br>
 #ex4
 
